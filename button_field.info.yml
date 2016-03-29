@@ -1,0 +1,5 @@
+name: Button Field
+type: module
+description: Button as a form field.
+core: 8.x
+package: Fields
