@@ -71,7 +71,7 @@ class ButtonDefaultWidget extends WidgetBase {
     $element = [];
 
     $element += [
-      '#type' => 'button',
+      '#type' => 'submit',
       '#value' => $this->fieldDefinition->getLabel(),
       '#button_type' => $this->getSetting('button_type'),
     ];
